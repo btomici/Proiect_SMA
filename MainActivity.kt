@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 class MainActivity : AppCompatActivity() {
     val CITY: String = "Timisoara, RO"
-    val API: String = "8118ed6ee68db2debfaaa5a44c832918"
+    val API: String = "3d3d6e6313dedc8b91a9e0a3fc1c9d46"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
