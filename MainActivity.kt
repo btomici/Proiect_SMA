@@ -12,7 +12,7 @@ import java.net.URL
 import java.text.SimpleDateFormat
 import java.util.*
 class MainActivity : AppCompatActivity() {
-    val CITY: String = "dhaka,bd"
+    val CITY: String = "Timisoara, RO"
     val API: String = "8118ed6ee68db2debfaaa5a44c832918"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
